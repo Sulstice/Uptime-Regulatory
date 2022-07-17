@@ -24,7 +24,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /Uptime-Regulatory
-  name: Cheminformatic Database Statuses
+  name: Regulatory Chemical List Statuses
   introTitle: "Website Status of Regulatory Chemical Lists"
   introMessage: Welcome to the endpoint monitor of live regulatory chemical Lists. 
   navbar:
